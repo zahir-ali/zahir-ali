@@ -25,5 +25,9 @@ Here are some ideas to get you started:
 </ul>
 <!--connect with me-->
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
-
+<p align="left" dir="auto">
+  <a href="https://twitter.com/ZahirAli48734" rel="nofollow">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ZahirAli48734" height="30" width="40" style="max-width: 100%;">
+  </a>
+</p>
 
