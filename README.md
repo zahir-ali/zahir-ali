@@ -1,16 +1,30 @@
-### Hi there 👋
+
+<p align="center">
+  # Hi 👋, I'm Zahir Ali <br>
+  ### A JavaScript Developer from Pakistan
+</p>
 
 <!--
 **zahir-ali/zahir-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<ul dir="auto">
+<li>
+<p dir="auto">🌱 I’m currently learning <strong>Core JavaScript, Tailwind CSS</strong></p>
+</li>
+<li>
+<li>
+<p dir="auto">💬 Ask me about <strong>Javascript,Tailwind CSS</strong></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:zahirali48734@gmail.com">buner5544@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">📄 I dont industry Experience </p>
+</li>
+</ul>
+<!--connect with me-->
+
+
+
