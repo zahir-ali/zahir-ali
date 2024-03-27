@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p dir="auto">📫 How to reach me <strong><a href="mailto:zahirali48734@gmail.com">zahirali48734@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto">📄 I dont industry Experience </p>
+<p dir="auto">📄 I dont have industry Experience yet </p>
 </li>
 </ul>
 <!--connect with me-->
