@@ -1,7 +1,7 @@
 
 <p align="center">
-  <h1> Hi 👋, I'm Zahir Ali </h1><br>
-  <h3>A JavaScript Developer from Pakistan</H3>
+  <h1 align="center"> Hi 👋, I'm Zahir Ali </h1><br>
+  <h3 align="center">A JavaScript Developer from Pakistan</H3>
 </p>
 
 <!--
