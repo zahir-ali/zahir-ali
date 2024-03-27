@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 <p dir="auto">🌱 I’m currently learning <strong>Core JavaScript, Tailwind CSS</strong></p>
 </li>
 <li>
-<li>
 <p dir="auto">💬 Ask me about <strong>Javascript,Tailwind CSS</strong></p>
 </li>
 <li>
