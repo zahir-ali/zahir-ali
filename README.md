@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p dir="auto">💬 Ask me about <strong>Javascript,Tailwind CSS</strong></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:zahirali48734@gmail.com">buner5544@gmail.com</a></strong></p>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:zahirali48734@gmail.com">zahirali48734@gmail.com</a></strong></p>
 </li>
 <li>
 <p dir="auto">📄 I dont industry Experience </p>
