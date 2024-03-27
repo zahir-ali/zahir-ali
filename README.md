@@ -37,5 +37,5 @@ Here are some ideas to get you started:
   <a href="https://fb.com/?_rdc=1&_rdr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahir ali" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 <h3 align="left" class="heading-element" dir="auto">Languages and Tools:</h3>
-
+<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 
