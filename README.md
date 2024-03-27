@@ -24,10 +24,18 @@ Here are some ideas to get you started:
 </li>
 </ul>
 <!--connect with me-->
+<!-- twitter link -->
 <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">
   <a href="https://twitter.com/ZahirAli48734" rel="nofollow">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ZahirAli48734" height="30" width="40" style="max-width: 100%;">
   </a>
+  <!-- linkedin link -->
+  <a href="https://linkedin.com/in/zahir-ali-3489761b5/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahir-ali-3489761b5/" height="30" width="40" style="max-width: 100%;">
+</a>
+ <!-- facebook link -->
+  <a href="https://fb.com/?_rdc=1&_rdr" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahir ali" height="30" width="40" style="max-width: 100%;"></a>
 </p>
+
+
 
