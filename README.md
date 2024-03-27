@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </li>
 </ul>
 <!--connect with me-->
-
+<h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
 
 
